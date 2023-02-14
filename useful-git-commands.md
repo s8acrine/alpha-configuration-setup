@@ -27,3 +27,6 @@
 
 ### Common Errors
 - Make sure to git add all files you want to add to tracking so you can push all at once
+
+
+This is testing different commit messages on different files in a single push
