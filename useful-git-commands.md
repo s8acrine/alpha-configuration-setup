@@ -30,3 +30,9 @@
 
 
 This is testing different commit messages on different files in a single push
+
+## Notes about branching
+- use git checkout -b name-of-branch to create a new branch
+- use git checkout name-of-branch to change what branch you are on
+- use git branch to list out what branches exist 
+- use git pull origin name-of-branch to pull that branch onto your local
