@@ -36,3 +36,11 @@ This is testing different commit messages on different files in a single push
 - use git checkout name-of-branch to change what branch you are on
 - use git branch to list out what branches exist 
 - use git pull origin name-of-branch to pull that branch onto your local
+
+### Branching Vocabulary
+
+- branch 0 an alternative timeline where a developer can code safely
+- main - the branch that is the source of truth, only working code should be here
+- checkout - command to navigate between branches
+- checkout -b creates a new branch that doesn't exist
+- deleting a branch - has to be deleted on local AND GitHub
