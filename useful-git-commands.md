@@ -24,3 +24,6 @@
   - adding a tracking number and message to your version
 - diff
   - the difference between states of your local and GitHub repository
+
+### Common Errors
+- Make sure to git add all files you want to add to tracking so you can push all at once
