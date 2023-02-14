@@ -44,3 +44,9 @@ This is testing different commit messages on different files in a single push
 - checkout - command to navigate between branches
 - checkout -b creates a new branch that doesn't exist
 - deleting a branch - has to be deleted on local AND GitHub
+
+### Branching Commands
+- $ `git checkout -b branch-name` - creates and navigates to a new branch
+- $ `git branch` - lists all the current branches on your local
+- $ `git branch -d branch-name` - deletes branch-name from your local
+- $ `git checkout branch-name` navigates to branch-name
